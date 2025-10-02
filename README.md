@@ -107,3 +107,4 @@ The project is organized into three main Python files for modularity:
 └── requirements.txt    # Project dependencies
 
 ```
+
